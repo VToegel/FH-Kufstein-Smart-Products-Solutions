@@ -1,0 +1,5 @@
+White - #FFFFFF
+BrownRed - #8A5757
+Green - #59C36D
+Blue - #63B7F3
+Grey - #313131
